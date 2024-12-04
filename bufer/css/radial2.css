@@ -1,0 +1,12 @@
+body{
+background-color: black;
+
+}
+img{
+	width:160px;
+	height: 190px;
+}
+video{
+	
+	position: relative;
+   top:-140px; }
