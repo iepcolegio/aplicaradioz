@@ -241,4 +241,11 @@ video{
 	
 }
 }
+@media (width<425px){
+
+	.iframe{
+	left:40px;
+	
+}
+}
 
