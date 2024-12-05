@@ -149,6 +149,7 @@ iframe{
     	position: relative;
         left: -5px;
         top: 6px;
+	     border: 2px solid blue
 }
 
 #marco1{
@@ -159,6 +160,7 @@ background-color: white;
         left: -5px;
         top: 6px;
         background: black;
+	 border: 2px solid blue
 
 	}
  .estam>a:hover {
