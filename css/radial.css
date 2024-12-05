@@ -216,10 +216,10 @@ video{
 	
 	position: relative;
    top:-140px; }
- @media (width<480px){
+ @media (width<380px){
 
-	.eterno{
-	width:420px;
+	.fraxm{
+	width:380px;
 	
 }
 }
