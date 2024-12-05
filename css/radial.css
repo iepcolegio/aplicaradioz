@@ -234,10 +234,10 @@ video{
 	position: relative;
    top:-140px; }
 
- @media (width<430px){
+ @media (width<425px){
 
 	.fraxm{
-	width:430px;
+	width:425px;
 	
 }
 }
