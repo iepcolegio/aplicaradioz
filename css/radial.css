@@ -124,7 +124,8 @@ height: 570px;
 
 
 iframe{
-	position: absolute;
+	position: relative;
+	left:20px;
     
 	background:black;
 	
