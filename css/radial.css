@@ -22,7 +22,7 @@ body{
 	margin:5px;
 	width: 400px;
 	height: 800px;
-	border: 2px solid blue;
+	
 
 place-items:center;
 	
@@ -109,7 +109,7 @@ align-items:center;
 }
 .ifrax{
 	display: flex;
-	border: 2px solid red;
+	
 justify-content: center;
 width: 358px;
 height: 570px;
@@ -122,7 +122,7 @@ height: 570px;
 	flex-direction: column;
 	float: left;
 	z-index: 1;
-		border: 2px solid orange;
+		
 	
 	}
 
@@ -169,16 +169,16 @@ background-color: white;
     margin-right: -20px;
        display: block;
         background: black;
- border: 2px solid blue;
+ 
 	z-index:2;
 	}
    
     #marco2{
     	display: block;
-    	top: -5px;
+    	top: -8px;
     	width: 353px;
     	height: 248px;
-                border: 2px solid blue;
+               
 	    z-index:1;
 }
 
