@@ -170,6 +170,7 @@ background-color: white;
        display: block;
         background: black;
  border: 2px solid blue;
+	z-index:2;
 	}
    
     #marco2{
@@ -177,8 +178,8 @@ background-color: white;
     	top: -5px;
     	width: 353px;
     	height: 248px;
-    	
                 border: 2px solid blue;
+	    z-index:1;
 }
 
 
