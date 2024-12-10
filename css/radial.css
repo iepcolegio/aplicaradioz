@@ -190,13 +190,14 @@ background-color: #7D3C98;
 	width: 100%;
 	height: 20px;
 	text-align: center;
+	font-size:30;
 	position: relative;
 	bottom: 70px;
 	top: -79px;
 }
 
 nav>a{ 
-	padding: 6px;
+	padding: 10px;
 	margin: 5px;
 width: 18%;
 height: 900%;
@@ -220,7 +221,7 @@ h3{
 	border-radius: 5px;
 	background-color: #441756;
 	color: white;
-	font-size: 16px;
+	font-size: 25px;
 	padding: 8px;
 }
 main{
