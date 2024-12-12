@@ -73,10 +73,14 @@ nav ul a{
 .primero li a{
 	text-align: center;
 	font-size: 24px;
-	font-family: castellar;
 	margin: 5px 25px;
 float: left;
 
+}
+.zhi-mang-xing-regular {
+  font-family: "Zhi Mang Xing", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 .primero li a:hover{
 	 background: #441756;
