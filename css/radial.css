@@ -65,17 +65,22 @@ nav ul a{
 	background:#121212 ;
 	width: 100%;
 	padding: 6px 10px;
+	font-size:18px;
 	text-decoration: none;
 	display: flex;
 
 }
 .primero li a{
 	text-align: center;
+	font-size: 24px;
+	font-family: castellar;
+	margin: 5px 25px;
 float: left;
 
 }
 .primero li a:hover{
 	 background: #441756;
+	 padding: 20px 20px;
 z-index: 3;
 }
 nav ul ul{
