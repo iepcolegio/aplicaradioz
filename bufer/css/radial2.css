@@ -9,4 +9,22 @@ img{
 video{
 	
 	position: relative;
-   top:-140px; }
+   top:-140px;
+}
+.sex1 {
+   	padding: 6px;
+	margin: 5px;
+	position: relative;
+	margin: auto;
+width: 33%;
+height: 900%;
+text-decoration: none;
+color: white;
+ 	border-radius: 6px;
+	background:#441756;
+	text-align: center;
+   }
+
+   .sex1:hover{
+	background:#33ff66;
+}
