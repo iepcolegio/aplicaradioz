@@ -1,0 +1,108 @@
+body{
+background-color: black;
+
+}
+img{
+	width:250px;
+	height: 280px;
+}
+video{
+	
+	position: relative;
+   top:-140px;
+}
+.sex1 {
+   	padding: 6px;
+	margin: 5px;
+	position: relative;
+	margin: auto;
+width: 33%;
+height: 900%;
+text-decoration: none;
+color: white;
+ 	border-radius: 6px;
+	background:#441756;
+	text-align: center;
+   }
+
+   .sex1:hover{
+	background:#33ff66;
+}
+nav ul a{
+	box-sizing: border-box;
+	color: white ;
+	display: block;
+	background:#121212 ;
+	width: 100%;
+	padding: 6px 10px;
+	font-size: 18px;
+	text-decoration: none;
+	display: flex;
+
+}
+.primero li a{
+	text-align: center;
+	font-size: 16px;
+	font-family: castellar;
+	margin: 5px 15px;
+float: left;
+
+}
+header{
+	
+  float: left;
+z-index: 2;
+  
+}
+#ArielPlaza_s{
+	left: 70px;
+	position: relative;
+	top: -32px;
+	z-index: 4;
+	}
+
+
+nav ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	line-height: 16px;
+}
+
+.zhi-mang-xing-regular {
+  font-family: "Zhi Mang Xing", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.primero li a:hover{
+	 background: #441756;
+	 padding: 20px 20px;
+z-index: 3;
+}
+nav ul ul{
+	height: 0px;
+	overflow: hidden;
+	transition: var(--estado-buda);
+	counter-reset: items;
+}
+nav ul ul li{
+	counter-increment: items;
+}
+nav ul li:hover ul{
+	height: calc(var(--cantidad-items)*var(--cada-items));
+	background: rgb(2,0,36);
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0% ,rgba(67,103,17,1)35%, rgba(0,212,255,1) 100%);
+	height: 700%;
+}
+nav ul ul a{
+	background: transparent;
+	
+}
+iframe{
+	width: 360px;
+	height: 525px;
+	position: relative;
+	left: 120px;
+	top: -25px;
+}
